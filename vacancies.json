@@ -1,0 +1,4258 @@
+{
+    "items": [
+        {
+            "id": "111320093",
+            "premium": false,
+            "name": "Junior QA Engineer",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 120000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T12:19:19+0300",
+            "created_at": "2024-11-19T12:19:19+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111320093",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111320093?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111320093",
+            "relations": [],
+            "employer": {
+                "id": "10990221",
+                "name": "Kinetica",
+                "url": "https://api.hh.ru/employers/10990221",
+                "alternate_url": "https://hh.ru/employer/10990221",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/employer-logo/6801462.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1295293.jpg",
+                    "240": "https://img.hhcdn.ru/employer-logo/6801463.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10990221",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Минимальный опыт или образование в области тестирования. Знание английского на уровне чтения технической документации. Навыки построения коммуникации со всеми членами...",
+                "responsibility": "Анализ требований, разработка и поддержка сценариев тестирования. Составление тест-кейсов. Анализ результатов тестирования. Оформление баг-репортов. Поддержание тестовой документации в..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "108956865",
+            "premium": false,
+            "name": "Специалист по тестированию",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "88",
+                "name": "Казань",
+                "url": "https://api.hh.ru/areas/88"
+            },
+            "salary": {
+                "from": 32000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-20T11:54:32+0300",
+            "created_at": "2024-11-20T11:54:32+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=108956865",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/108956865?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/108956865",
+            "relations": [],
+            "employer": {
+                "id": "9498120",
+                "name": "Яндекс Команда для бизнеса",
+                "url": "https://api.hh.ru/employers/9498120",
+                "alternate_url": "https://hh.ru/employer/9498120",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенный пользователь ПК. Имеешь высшее техническое образование (да, курсы тоже считаются =)). Обладаешь базовыми знаниями в области HTML. Имеешь опыт самостоятельного...",
+                "responsibility": "Тестировать веб и мобильное приложение. Настраивать тестовые среды. Следить за качеством сервиса и непрерывно повышать его."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111322194",
+            "premium": false,
+            "name": "Стажер-тестировщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2251",
+                "name": "Пинск",
+                "url": "https://api.hh.ru/areas/2251"
+            },
+            "salary": {
+                "from": 500,
+                "to": null,
+                "currency": "USD",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T12:37:00+0300",
+            "created_at": "2024-11-19T12:37:00+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111322194",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111322194?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111322194",
+            "relations": [],
+            "employer": {
+                "id": "11612757",
+                "name": "Григорьева Анна",
+                "url": "https://api.hh.ru/employers/11612757",
+                "alternate_url": "https://hh.ru/employer/11612757",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11612757",
+                "accredited_it_employer": false,
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "Грамотная письменная речь. Знание английского языка на уровне B1- будет преимуществом. Умение работать в режиме многозадачности. Готовность работать с...",
+                "responsibility": "Проведение функционального тестирования программного обеспечения. Регистрация и документирование найденных ошибок. Создание тест-кейсов и других необходимых документов для проведения тестирования. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111254137",
+            "premium": false,
+            "name": "Тестировщик/QA Engineer (Junior)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "4",
+                "name": "Новосибирск",
+                "url": "https://api.hh.ru/areas/4"
+            },
+            "salary": {
+                "from": null,
+                "to": 50000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-18T16:57:01+0300",
+            "created_at": "2024-11-18T16:57:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111254137",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111254137?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111254137",
+            "relations": [],
+            "employer": {
+                "id": "10749377",
+                "name": "Ботхаб",
+                "url": "https://api.hh.ru/employers/10749377",
+                "alternate_url": "https://hh.ru/employer/10749377",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/employer-logo/6529165.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/6529166.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1227181.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10749377",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Базовые знания теории тестирования и жизненного цикла дефектов. - Понимание принципов тестирования API. - Базовые знания в области автоматизации тестирования (понимание принципов...",
+                "responsibility": "Ручное тестирование Frontend/Backend/API. - Проведение тестирования сборок перед релизом. - Создание и поддержка тест-кейсов для последующей автоматизации. - "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "108984095",
+            "premium": false,
+            "name": "Младший тестировщик (ручное тестирование)",
+            "department": null,
+            "has_test": true,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T10:30:38+0300",
+            "created_at": "2024-11-19T10:30:38+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=108984095",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/108984095?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/108984095",
+            "relations": [],
+            "employer": {
+                "id": "971023",
+                "name": "ProSpace",
+                "url": "https://api.hh.ru/employers/971023",
+                "alternate_url": "https://hh.ru/employer/971023",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6924775.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1326188.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6924774.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=971023",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Понимание видов принципов тестирования ПО. Знание техник тест-дизайна. Навыки работы с DevTools. Знание Postman - как преимущество.",
+                "responsibility": "1. Проведение тестирования программного обеспечения для выявления ошибок и недочетов. 2. Разработка и поддержка тестовой документации, включая тест-кейсы, чек..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111261360",
+            "premium": false,
+            "name": "Junior QA Engineer",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 600,
+                "currency": "USD",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-18T18:06:44+0300",
+            "created_at": "2024-11-18T18:06:44+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111261360",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111261360?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111261360",
+            "relations": [],
+            "employer": {
+                "id": "993464",
+                "name": "Elephant Games",
+                "url": "https://api.hh.ru/employers/993464",
+                "alternate_url": "https://hh.ru/employer/993464",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/946069.jpg",
+                    "240": "https://img.hhcdn.ru/employer-logo/4224813.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/4224812.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=993464",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Умеет четко выражать мысли в письменной и устной форме. Открытый к диалогу менеджмент, доверяющий команде и ориентированный на объединение усилий...",
+                "responsibility": "Знает и применяет техники тест-дизайна. Проверка и обеспечение качества проекта. Составление баг-репортов и отчетов о качестве игрового проекта. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111098561",
+            "premium": false,
+            "name": "Тестировщик веб-проектов",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-15T21:45:33+0300",
+            "created_at": "2024-11-15T21:45:33+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111098561",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111098561?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111098561",
+            "relations": [],
+            "employer": {
+                "id": "9668483",
+                "name": "Пэйвол Рус",
+                "url": "https://api.hh.ru/employers/9668483",
+                "alternate_url": "https://hh.ru/employer/9668483",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1074040.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/5916790.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/5916789.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9668483",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Оконченные курсы или наличие опыта в тестировании. Знание основных методологий тестирования. Умение работать с баг-трекерами (например, GitLab, Trello и...",
+                "responsibility": "Функциональное тестирование включая юзабилити и совместимость с различными браузерами и устройствами. Написание и поддержка чек-листов. Отслеживание и документирование багов. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно сменами по 4-6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "С началом дня после 16:00"
+                }
+            ],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "project",
+                "name": "Проектная работа"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110865035",
+            "premium": false,
+            "name": "Junior QA Engineer (Тестировщик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 20000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-13T11:27:21+0300",
+            "created_at": "2024-11-13T11:27:21+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110865035",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110865035?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110865035",
+            "relations": [],
+            "employer": {
+                "id": "4194915",
+                "name": "Новая Школа",
+                "url": "https://api.hh.ru/employers/4194915",
+                "alternate_url": "https://hh.ru/employer/4194915",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1209696.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/6459234.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6459233.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4194915",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Еще учится или уже выпустился из ВУЗа по IT-направлению (опыт не обязателен, но будет плюсом). Умеет пользоваться DevTools в...",
+                "responsibility": "Проводить ручное тестирование мобильных приложений и сайта, выявлять ошибки и сбои. Участвовать в обсуждениях задач с менеджерами, предлагать идеи по..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111237987",
+            "premium": false,
+            "name": "QA Engineer (Mobile)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 165000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-18T14:43:49+0300",
+            "created_at": "2024-11-18T14:43:49+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111237987",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111237987?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111237987",
+            "relations": [],
+            "employer": {
+                "id": "3009249",
+                "name": "Secreate",
+                "url": "https://api.hh.ru/employers/3009249",
+                "alternate_url": "https://hh.ru/employer/3009249",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/3816384.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3816383.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/843877.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3009249",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт тестирование мобильного приложения от 2 лет. Опыт работы с GitLab. Взаимодействие с системой тест-кейсов и тест-репортов. ",
+                "responsibility": "Тестировать Android и iOS приложения. Создавать и вести тестовую документацию (тест кейсы, чек-листы, тест планы). Обнаруживать, локализовывать и фиксировать..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109295745",
+            "premium": false,
+            "name": "Junior QA Manual (Ручной тестировщик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 60000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-25T14:12:15+0300",
+            "created_at": "2024-10-25T14:12:15+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109295745",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109295745?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109295745",
+            "relations": [],
+            "employer": {
+                "id": "10912904",
+                "name": "Oxytocin",
+                "url": "https://api.hh.ru/employers/10912904",
+                "alternate_url": "https://hh.ru/employer/10912904",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/employer-logo/7017266.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1349331.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/7017267.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10912904",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Понимание основных принципов и методологий тестирования. —Внимание к деталям и аналитический склад ума. —Умение чётко формулировать и документировать найденные ошибки. —",
+                "responsibility": "Планирование и проведение ручного тестирования веб-платформы и мобильных приложений. —Создание тестовых сценариев и чек-листов. — Регистрация и трекинг ошибок..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "107553426",
+            "premium": false,
+            "name": "Младший специалист по тестированию (Junior QA)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "23",
+                "name": "Владимир",
+                "url": "https://api.hh.ru/areas/23"
+            },
+            "salary": {
+                "from": 35000,
+                "to": 35000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Владимир",
+                "street": "1-я Никольская улица",
+                "building": "8",
+                "lat": 56.128606,
+                "lng": 40.399538,
+                "description": null,
+                "raw": "Владимир, 1-я Никольская улица, 8",
+                "metro": null,
+                "metro_stations": [],
+                "id": "2334117"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T11:09:55+0300",
+            "created_at": "2024-11-19T11:09:55+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107553426",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/107553426?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/107553426",
+            "relations": [],
+            "employer": {
+                "id": "2691906",
+                "name": "Организация качества",
+                "url": "https://api.hh.ru/employers/2691906",
+                "alternate_url": "https://hh.ru/employer/2691906",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/employer-logo/3894111.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/3894112.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/863309.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2691906",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ответственность. Грамотность. Готовность выполнять удаленную работу 8 часов в день. Желание расти и развиваться в IT сфере. Знания базовых понятий...",
+                "responsibility": "Ручное тестирование систем и приложений. Разработка тестовой документации (тест-кейсы, отчеты по тестированию). Регистрация и контроль исправления дефектов."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "107328945",
+            "premium": false,
+            "name": "Intern QA Engineer",
+            "department": null,
+            "has_test": true,
+            "response_letter_required": false,
+            "area": {
+                "id": "4",
+                "name": "Новосибирск",
+                "url": "https://api.hh.ru/areas/4"
+            },
+            "salary": {
+                "from": 45000,
+                "to": 70000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-15T13:24:10+0300",
+            "created_at": "2024-11-15T13:24:10+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107328945",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/107328945?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/107328945",
+            "relations": [],
+            "employer": {
+                "id": "3255952",
+                "name": "Matryoshka Games",
+                "url": "https://api.hh.ru/employers/3255952",
+                "alternate_url": "https://hh.ru/employer/3255952",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/923446.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/4134345.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/4134344.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3255952",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Большой игровой опыт на мобильных платформах. Грамотная письменная и устная речь. Понимание базовых принципов тестирования. Навыки работы с баг-трекинговой...",
+                "responsibility": "Проведение тестирования игр. Оформление баг-репортов в баг-трекинговой системе Jira. Разработка, актуализация и оформление тестовой документации: чек-листы, тест..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111177623",
+            "premium": false,
+            "name": "Программист / программист-тестировщик (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-17T23:12:07+0300",
+            "created_at": "2024-11-17T23:12:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111177623",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111177623?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111177623",
+            "relations": [],
+            "employer": {
+                "id": "11603860",
+                "name": "Ит Продажи",
+                "url": "https://api.hh.ru/employers/11603860",
+                "alternate_url": "https://hh.ru/employer/11603860",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11603860",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Желательно умение тестировать собственный код с помощью python, если не умеете, поможем. Так же плюсом будет понимание python на бэке. ",
+                "responsibility": "Верстка на HTML CSS (TailwindCSS) и др. CSS/JavaScript анимация и др. Еженедельный отчёт по поставленным на прошлой неделе задачам. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "40",
+                    "name": "Другое"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110137467",
+            "premium": false,
+            "name": "Стажёр-тестировщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": null,
+                "lng": null,
+                "description": null,
+                "raw": null,
+                "metro": {
+                    "station_name": "Площадь Ильича",
+                    "line_name": "Калининская",
+                    "station_id": "8.112",
+                    "line_id": "8",
+                    "lat": 55.747115,
+                    "lng": 37.680726
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Площадь Ильича",
+                        "line_name": "Калининская",
+                        "station_id": "8.112",
+                        "line_id": "8",
+                        "lat": 55.747115,
+                        "lng": 37.680726
+                    },
+                    {
+                        "station_name": "Римская",
+                        "line_name": "Люблинско-Дмитровская",
+                        "station_id": "10.113",
+                        "line_id": "10",
+                        "lat": 55.747027,
+                        "lng": 37.679996
+                    }
+                ],
+                "id": "30199"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-20T09:51:13+0300",
+            "created_at": "2024-11-20T09:51:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110137467",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110137467?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110137467",
+            "relations": [],
+            "employer": {
+                "id": "2987",
+                "name": "КРОК",
+                "url": "https://api.hh.ru/employers/2987",
+                "alternate_url": "https://hh.ru/employer/2987",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/employer-logo/1555613.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/1555614.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/278279.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2987",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Cтудент или выпускник профильного направления (техническая специальность). Понимание работы реляционных СУБД, знание языка SQL на уровне написания стандартных запросов. ",
+                "responsibility": "Тестирование программного обеспечения с использованием планов тестирования. Регистрация и контроль исправления дефектов. Тестирование проектной и пользовательской документации. Работа в опытной..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110428437",
+            "premium": false,
+            "name": "Тестировщик специалист технической поддержки",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 50000,
+                "to": 80000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": null,
+                "building": null,
+                "lat": 55.755864,
+                "lng": 37.617698,
+                "description": null,
+                "raw": "Москва",
+                "metro": null,
+                "metro_stations": [],
+                "id": "13951575"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-08T15:27:08+0300",
+            "created_at": "2024-11-08T15:27:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110428437",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110428437?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110428437",
+            "relations": [],
+            "employer": {
+                "id": "10000774",
+                "name": "Selsup",
+                "url": "https://api.hh.ru/employers/10000774",
+                "alternate_url": "https://hh.ru/employer/10000774",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1120149.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6101189.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/6101190.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10000774",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Базовые знания в области тестирования ПО: умение работать с логами, консолью разработчика, составлять тест-кейсы. - Желание развиваться в IT-сфере...",
+                "responsibility": "1 месяц - изучение продукта и адаптация под руководством наставника. - Со 2 месяца - совмещение задач технической поддержки и тестирования. - "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "106770101",
+            "premium": false,
+            "name": "Junior QA Engineer",
+            "department": null,
+            "has_test": true,
+            "response_letter_required": false,
+            "area": {
+                "id": "90",
+                "name": "Томск",
+                "url": "https://api.hh.ru/areas/90"
+            },
+            "salary": {
+                "from": 60000,
+                "to": 90000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-03T12:30:57+0300",
+            "created_at": "2024-11-03T12:30:57+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106770101",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/106770101?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/106770101",
+            "relations": [],
+            "employer": {
+                "id": "3255952",
+                "name": "Matryoshka Games",
+                "url": "https://api.hh.ru/employers/3255952",
+                "alternate_url": "https://hh.ru/employer/3255952",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/923446.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/4134345.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/4134344.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3255952",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Большой игровой опыт на мобильных платформах. Грамотная письменная и устная речь. Понимание базовых принципов тестирования. Навыки работы с баг-трекинговой...",
+                "responsibility": "Проведение тестирования игр. Оформление баг-репортов в баг-трекинговой системе Jira. Разработка, актуализация и оформление тестовой документации: чек-листы, тест..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111350290",
+            "premium": false,
+            "name": "QA-инженер/Тестировщик (автоэлектроника)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 50000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T17:31:07+0300",
+            "created_at": "2024-11-19T17:31:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111350290",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111350290?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111350290",
+            "relations": [],
+            "employer": {
+                "id": "2895827",
+                "name": "Роадгид",
+                "url": "https://api.hh.ru/employers/2895827",
+                "alternate_url": "https://hh.ru/employer/2895827",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/611837.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/2888501.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/2888500.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2895827",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ты - заядлый автолюбитель и обладатель прав категории B. Опыт тестирования электроники и гаджетов: ты знаешь методики и подходы. ",
+                "responsibility": "Оценивать качество съемки в дневное и ночное время. Проверить точность работы радаров-детекторов. Давать рекомендации по настройке и прошивке. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно сменами по 4-6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111214267",
+            "premium": false,
+            "name": "Младший тестировщик B2B веб интерфейсов,мобильных приложений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "11",
+                "name": "Барнаул",
+                "url": "https://api.hh.ru/areas/11"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 35000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-18T11:13:55+0300",
+            "created_at": "2024-11-18T11:13:55+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111214267",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111214267?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111214267",
+            "relations": [],
+            "employer": {
+                "id": "76164",
+                "name": "ИНЛАЙН",
+                "url": "https://api.hh.ru/employers/76164",
+                "alternate_url": "https://hh.ru/employer/76164",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/538203.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/214977.jpg",
+                    "90": "https://img.hhcdn.ru/employer-logo/538202.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=76164",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Мы ищем в свой коллектив младшего <highlighttext>тестировщика</highlighttext> B2B веб интерфейсов/мобильных приложений. Минимальное требование - окончание релевантных курсов по...",
+                "responsibility": "Тестирование web приложений. - Составления тест-кейсов, пользовательских сценариев, чек-листов. - Своевременная поддержка документации проекта. - Анализ проектной документации, консультации с командой..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "107655804",
+            "premium": false,
+            "name": "Специалист по тестированию / QA engineer",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T16:31:14+0300",
+            "created_at": "2024-11-19T16:31:14+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107655804",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/107655804?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/107655804",
+            "relations": [],
+            "employer": {
+                "id": "77510",
+                "name": "РК-ТЕХНОЛОГИИ",
+                "url": "https://api.hh.ru/employers/77510",
+                "alternate_url": "https://hh.ru/employer/77510",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/5491445.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/5491444.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/968083.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=77510",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в сфере тестирования и контроля качества ПО. Опыт работы с Linux (уверенный пользователь). Знание теории тестирования. ",
+                "responsibility": "Тестирование web-приложений. Работа с баг-трекером. Взаимодействие с отделами разработки и проектирования."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110218639",
+            "premium": false,
+            "name": "Junior QA Engineer (Mobile Games)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "26",
+                "name": "Воронеж",
+                "url": "https://api.hh.ru/areas/26"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 40000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-12T11:06:16+0300",
+            "created_at": "2024-11-12T11:06:16+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110218639",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110218639?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110218639",
+            "relations": [],
+            "employer": {
+                "id": "5473508",
+                "name": "Ollie Games",
+                "url": "https://api.hh.ru/employers/5473508",
+                "alternate_url": "https://hh.ru/employer/5473508",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1030743.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo/5743733.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/5743732.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5473508",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Понятное и грамотное изложение мыслей. Внимательность и ответственность, поэтому в сопроводительном письме напишете \"<highlighttext>qa</highlighttext>\". Будет плюсом наличие нескольких девайсов для...",
+                "responsibility": "Ручное тестирование мобильных игр (иногда и веб игр). Написание и актуализация тестовой документации. Локализация дефектов и составление баг репортов. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109309784",
+            "premium": false,
+            "name": "Тестировщик ПО",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": {
+                "from": 55000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-25T20:08:43+0300",
+            "created_at": "2024-10-25T20:08:43+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109309784",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109309784?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109309784",
+            "relations": [],
+            "employer": {
+                "id": "11546458",
+                "name": "Юрков Алексей",
+                "url": "https://api.hh.ru/employers/11546458",
+                "alternate_url": "https://hh.ru/employer/11546458",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11546458",
+                "accredited_it_employer": false,
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "Уровень английского от B1. Хорошие аналитические способности. Многозадачность. Внимательность к деталям. Стрессоустойчивость. Грамотность. Хорошие коммуникативные навыки.",
+                "responsibility": "Тестировать приложения на наличие ошибок. Написание отчетов о найденных ошибках. Помощь в создании тестовых сценариев. Взаимодействие с другими отделами компании. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110715973",
+            "premium": false,
+            "name": "Стажер - QA инженер (Тестировщик ПО Python)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-12T02:58:43+0300",
+            "created_at": "2024-11-12T02:58:43+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110715973",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110715973?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110715973",
+            "relations": [],
+            "employer": {
+                "id": "10909561",
+                "name": "Патрес",
+                "url": "https://api.hh.ru/employers/10909561",
+                "alternate_url": "https://hh.ru/employer/10909561",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10909561",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Apache Kafka. * Базовые знания Python. (и\\или большое желание вырасти до разработчика Python). * Понимание принципов тестирования ПО (Желательно прохождение курсов). * ",
+                "responsibility": "Участие в тестировании функциональности программного обеспечения, написанного на Python. * Создание и поддержка тестовой документации. * Анализ результатов тестирования и выявление ошибок. * "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно сменами по 4-6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110878369",
+            "premium": false,
+            "name": "Тестировщик-Интегратор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 50000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-19T13:22:17+0300",
+            "created_at": "2024-11-19T13:22:17+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110878369",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110878369?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110878369",
+            "relations": [],
+            "employer": {
+                "id": "584898",
+                "name": "MediaNation",
+                "url": "https://api.hh.ru/employers/584898",
+                "alternate_url": "https://hh.ru/employer/584898",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/495718.jpg",
+                    "90": "https://img.hhcdn.ru/employer-logo/2424625.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo/2424626.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=584898",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Начальное понимание Python. - Опыт ручного тестирования веб-сайтов.",
+                "responsibility": "Сдавать проект клиенту и получать обратную связь."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110287206",
+            "premium": false,
+            "name": "Junior QA",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "53",
+                "name": "Краснодар",
+                "url": "https://api.hh.ru/areas/53"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-07T09:26:43+0300",
+            "created_at": "2024-11-07T09:26:43+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110287206",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110287206?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110287206",
+            "relations": [],
+            "employer": {
+                "id": "49357",
+                "name": "МАГНИТ, Розничная сеть",
+                "url": "https://api.hh.ru/employers/49357",
+                "alternate_url": "https://hh.ru/employer/49357",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/ichameleon/310823.png",
+                    "240": "https://img.hhcdn.ru/ichameleon/310823.png",
+                    "original": "https://img.hhcdn.ru/ichameleon/310823.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=49357",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Внимательность к деталям. Знание жизненного цикла ПО. Знание Python на базовом уровне. Знание SQL на уровне средний и выше.",
+                "responsibility": "Составление тест-плана. Оформление тест-кейсов. Проведение тестирования. Оформление контрольных точек для шаблона поставки. Автоматизация тестирования."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111395026",
+            "premium": false,
+            "name": "Начинающий тестировщик мобильных приложений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 85000,
+                "to": 150000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-20T10:20:03+0300",
+            "created_at": "2024-11-20T10:20:03+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111395026",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111395026?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111395026",
+            "relations": [],
+            "employer": {
+                "id": "10517818",
+                "name": "Павленко Елена Владимировна",
+                "url": "https://api.hh.ru/employers/10517818",
+                "alternate_url": "https://hh.ru/employer/10517818",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10517818",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Смартфон. Внимательность к мелочам.",
+                "responsibility": "Установка мобильных приложений. Поиск неисправностей. Внесение данных в таблицу. Заполнение отчётности."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно сменами по 4-6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109939663",
+            "premium": false,
+            "name": "QA VIP-manager",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-02T11:01:16+0300",
+            "created_at": "2024-11-02T11:01:16+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109939663",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109939663?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109939663",
+            "relations": [],
+            "employer": {
+                "id": "11051604",
+                "name": "LLC Omniverse",
+                "url": "https://api.hh.ru/employers/11051604",
+                "alternate_url": "https://hh.ru/employer/11051604",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1276101.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6724706.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo/6724707.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11051604",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Имеет опыт работы в сфере <highlighttext>QA</highlighttext>. Знает правила ведения деловой переписки. Знает французский язык не ниже уровня C1, английский...",
+                "responsibility": "Контролем качества звонков операторов колл-центра. Контролем качества ведения деловой переписки в чатах социальных сетей (ВКонтакте, телеграм). Анализом проделанной работы. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "83",
+                    "name": "Оператор call-центра, специалист контактного центра"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109047033",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-18T11:12:33+0300",
+            "created_at": "2024-11-18T11:12:33+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109047033",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109047033?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109047033",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109743179",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "79",
+                "name": "Саратов",
+                "url": "https://api.hh.ru/areas/79"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-31T13:06:20+0300",
+            "created_at": "2024-10-31T13:06:20+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109743179",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109743179?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109743179",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111392454",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-20T10:03:16+0300",
+            "created_at": "2024-11-20T10:03:16+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111392454",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111392454?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111392454",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111057635",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "78",
+                "name": "Самара",
+                "url": "https://api.hh.ru/areas/78"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-15T14:18:32+0300",
+            "created_at": "2024-11-15T14:18:32+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111057635",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111057635?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111057635",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110656417",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-11T16:26:36+0300",
+            "created_at": "2024-11-11T16:26:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110656417",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110656417?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110656417",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110421278",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "96",
+                "name": "Ижевск",
+                "url": "https://api.hh.ru/areas/96"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-08T14:00:18+0300",
+            "created_at": "2024-11-08T14:00:18+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110421278",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110421278?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110421278",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111054900",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "88",
+                "name": "Казань",
+                "url": "https://api.hh.ru/areas/88"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-15T13:53:12+0300",
+            "created_at": "2024-11-15T13:53:12+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111054900",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111054900?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111054900",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110859975",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-13T10:46:30+0300",
+            "created_at": "2024-11-13T10:46:30+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110859975",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110859975?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110859975",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111398303",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "76",
+                "name": "Ростов-на-Дону",
+                "url": "https://api.hh.ru/areas/76"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-20T10:44:55+0300",
+            "created_at": "2024-11-20T10:44:55+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111398303",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111398303?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111398303",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110292485",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "99",
+                "name": "Уфа",
+                "url": "https://api.hh.ru/areas/99"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-07T10:33:12+0300",
+            "created_at": "2024-11-07T10:33:12+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110292485",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110292485?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110292485",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110956642",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-14T11:09:46+0300",
+            "created_at": "2024-11-14T11:09:46+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110956642",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110956642?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110956642",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110112229",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "3",
+                "name": "Екатеринбург",
+                "url": "https://api.hh.ru/areas/3"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-05T11:17:24+0300",
+            "created_at": "2024-11-05T11:17:24+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110112229",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110112229?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110112229",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109947547",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "53",
+                "name": "Краснодар",
+                "url": "https://api.hh.ru/areas/53"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-02T12:04:02+0300",
+            "created_at": "2024-11-02T12:04:02+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109947547",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109947547?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109947547",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109718773",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "4",
+                "name": "Новосибирск",
+                "url": "https://api.hh.ru/areas/4"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-31T10:06:20+0300",
+            "created_at": "2024-10-31T10:06:20+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109718773",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109718773?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109718773",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109657274",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "78",
+                "name": "Самара",
+                "url": "https://api.hh.ru/areas/78"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-30T14:06:09+0300",
+            "created_at": "2024-10-30T14:06:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109657274",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109657274?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109657274",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "111056118",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1003",
+                "name": "Гомель",
+                "url": "https://api.hh.ru/areas/1003"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-15T14:06:23+0300",
+            "created_at": "2024-11-15T14:06:23+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111056118",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/111056118?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/111056118",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Подготовка к собеседованию и самопрезентации. Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110316708",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "26",
+                "name": "Воронеж",
+                "url": "https://api.hh.ru/areas/26"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-07T13:08:01+0300",
+            "created_at": "2024-11-07T13:08:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110316708",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110316708?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110316708",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109743180",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "212",
+                "name": "Тольятти",
+                "url": "https://api.hh.ru/areas/212"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-31T13:06:20+0300",
+            "created_at": "2024-10-31T13:06:20+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109743180",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109743180?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109743180",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110956641",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "76",
+                "name": "Ростов-на-Дону",
+                "url": "https://api.hh.ru/areas/76"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-14T11:09:46+0300",
+            "created_at": "2024-11-14T11:09:46+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110956641",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110956641?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110956641",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109226640",
+            "premium": false,
+            "name": "QA Engineer Java / Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-24T14:29:57+0300",
+            "created_at": "2024-10-24T14:29:57+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109226640",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109226640?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109226640",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110417064",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-08T12:59:50+0300",
+            "created_at": "2024-11-08T12:59:50+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110417064",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110417064?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110417064",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109049902",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "3",
+                "name": "Екатеринбург",
+                "url": "https://api.hh.ru/areas/3"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-22T11:39:03+0300",
+            "created_at": "2024-10-22T11:39:03+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109049902",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109049902?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109049902",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109466293",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2734",
+                "name": "Иннополис",
+                "url": "https://api.hh.ru/areas/2734"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-28T14:05:36+0300",
+            "created_at": "2024-10-28T14:05:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109466293",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109466293?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109466293",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109657273",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (ученик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "26",
+                "name": "Воронеж",
+                "url": "https://api.hh.ru/areas/26"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-30T14:06:09+0300",
+            "created_at": "2024-10-30T14:06:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109657273",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109657273?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109657273",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Теория + практика + домашние задания. Требования к кандидатам: Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile...",
+                "responsibility": "Доступ к корпоративному порталу с обучающими материалами."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110111955",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "95",
+                "name": "Тюмень",
+                "url": "https://api.hh.ru/areas/95"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-05T11:14:46+0300",
+            "created_at": "2024-11-05T11:14:46+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110111955",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110111955?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110111955",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "110292060",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1003",
+                "name": "Гомель",
+                "url": "https://api.hh.ru/areas/1003"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-11-07T10:28:08+0300",
+            "created_at": "2024-11-07T10:28:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110292060",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/110292060?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/110292060",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания с Java. Знание основ работы с...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109466294",
+            "premium": false,
+            "name": "QA Engineer Java/Инженер-тестировщик Java (стажер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "99",
+                "name": "Уфа",
+                "url": "https://api.hh.ru/areas/99"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-28T14:05:36+0300",
+            "created_at": "2024-10-28T14:05:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109466294",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109466294?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109466294",
+            "relations": [],
+            "employer": {
+                "id": "6093775",
+                "name": "Aston",
+                "url": "https://api.hh.ru/employers/6093775",
+                "alternate_url": "https://hh.ru/employer/6093775",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6574070.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6574069.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1238409.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6093775",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенные знания теории тестирования. Понимание SQL. Понимание принципов работы WEB / Mobile приложений. Базовые знания Java. Знание основ работы с инструментами...",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 53,
+    "pages": 1,
+    "page": 0,
+    "per_page": 60,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": {
+        "value": "QA OR инженер по тестированию OR Тестировщик",
+        "found": 55
+    },
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&experience=noExperience&items_on_page=60&schedule=remote&search_field=name&text=QA+OR+%22%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%D0%BF%D0%BE+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%22+OR+%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA"
+}

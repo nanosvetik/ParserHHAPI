@@ -1,0 +1,4342 @@
+[
+    {
+        "id": "111320093",
+        "premium": false,
+        "name": "Junior QA Engineer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T12:19:19+0300",
+        "created_at": "2024-11-19T12:19:19+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111320093",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111320093?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111320093",
+        "relations": [],
+        "employer": {
+            "id": "10990221",
+            "name": "Kinetica",
+            "url": "https://api.hh.ru/employers/10990221",
+            "alternate_url": "https://hh.ru/employer/10990221",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6801462.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1295293.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/6801463.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10990221",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Минимальный опыт или образование в области тестирования. Знание английского на уровне чтения технической документации. Навыки построения коммуникации со всеми членами...",
+            "responsibility": "Анализ требований, разработка и поддержка сценариев тестирования. Составление тест-кейсов. Анализ результатов тестирования. Оформление баг-репортов. Поддержание тестовой документации в..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "108984095",
+        "premium": false,
+        "name": "Младший тестировщик (ручное тестирование)",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T10:30:38+0300",
+        "created_at": "2024-11-19T10:30:38+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=108984095",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/108984095?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/108984095",
+        "relations": [],
+        "employer": {
+            "id": "971023",
+            "name": "ProSpace",
+            "url": "https://api.hh.ru/employers/971023",
+            "alternate_url": "https://hh.ru/employer/971023",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6924775.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1326188.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6924774.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=971023",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понимание видов принципов тестирования ПО. Знание техник тест-дизайна. Навыки работы с DevTools. Знание Postman - как преимущество.",
+            "responsibility": "1. Проведение тестирования программного обеспечения для выявления ошибок и недочетов. 2. Разработка и поддержка тестовой документации, включая тест-кейсы, чек..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111322194",
+        "premium": false,
+        "name": "Стажер-тестировщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2251",
+            "name": "Пинск",
+            "url": "https://api.hh.ru/areas/2251"
+        },
+        "salary": {
+            "from": 500,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T12:37:00+0300",
+        "created_at": "2024-11-19T12:37:00+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111322194",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111322194?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111322194",
+        "relations": [],
+        "employer": {
+            "id": "11612757",
+            "name": "Григорьева Анна",
+            "url": "https://api.hh.ru/employers/11612757",
+            "alternate_url": "https://hh.ru/employer/11612757",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11612757",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Грамотная письменная речь. Знание английского языка на уровне B1- будет преимуществом. Умение работать в режиме многозадачности. Готовность работать с...",
+            "responsibility": "Проведение функционального тестирования программного обеспечения. Регистрация и документирование найденных ошибок. Создание тест-кейсов и других необходимых документов для проведения тестирования. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "probation",
+            "name": "Стажировка"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111443435",
+        "premium": false,
+        "name": "Junior QA engineer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 500,
+            "to": 1000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-20T18:01:11+0300",
+        "created_at": "2024-11-20T18:01:11+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111443435",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111443435?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111443435",
+        "relations": [],
+        "employer": {
+            "id": "5541372",
+            "name": "Hodl Hodl",
+            "url": "https://api.hh.ru/employers/5541372",
+            "alternate_url": "https://hh.ru/employer/5541372",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/4042947.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4042948.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/900565.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5541372",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "No bullshit подход взаимодействия с управленцами, ориентированный на результат. Ваши часы работы не будут отслеживаться. Высокое качество решенных задач, умение...",
+            "responsibility": "Условия получения предложения."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111254137",
+        "premium": false,
+        "name": "Тестировщик/QA Engineer (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        },
+        "salary": {
+            "from": null,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-18T16:57:01+0300",
+        "created_at": "2024-11-18T16:57:01+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111254137",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111254137?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111254137",
+        "relations": [],
+        "employer": {
+            "id": "10749377",
+            "name": "Ботхаб",
+            "url": "https://api.hh.ru/employers/10749377",
+            "alternate_url": "https://hh.ru/employer/10749377",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6529165.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6529166.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1227181.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10749377",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Базовые знания теории тестирования и жизненного цикла дефектов. - Понимание принципов тестирования API. - Базовые знания в области автоматизации тестирования (понимание принципов...",
+            "responsibility": "Ручное тестирование Frontend/Backend/API. - Проведение тестирования сборок перед релизом. - Создание и поддержка тест-кейсов для последующей автоматизации. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111261360",
+        "premium": false,
+        "name": "Junior QA Engineer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": null,
+            "to": 600,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-18T18:06:44+0300",
+        "created_at": "2024-11-18T18:06:44+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111261360",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111261360?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111261360",
+        "relations": [],
+        "employer": {
+            "id": "993464",
+            "name": "Elephant Games",
+            "url": "https://api.hh.ru/employers/993464",
+            "alternate_url": "https://hh.ru/employer/993464",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/946069.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/4224813.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/4224812.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=993464",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Умеет четко выражать мысли в письменной и устной форме. Открытый к диалогу менеджмент, доверяющий команде и ориентированный на объединение усилий...",
+            "responsibility": "Знает и применяет техники тест-дизайна. Проверка и обеспечение качества проекта. Составление баг-репортов и отчетов о качестве игрового проекта. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111454379",
+        "premium": false,
+        "name": "Стажер-тестировщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "187",
+            "name": "Тараз",
+            "url": "https://api.hh.ru/areas/187"
+        },
+        "salary": {
+            "from": 500,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-20T22:30:23+0300",
+        "created_at": "2024-11-20T22:30:23+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111454379",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111454379?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111454379",
+        "relations": [],
+        "employer": {
+            "id": "11618933",
+            "name": "Нестеренко Анастасия",
+            "url": "https://api.hh.ru/employers/11618933",
+            "alternate_url": "https://hh.ru/employer/11618933",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11618933",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Хорошие коммуникативные навыки и умение работать в команде. Знание английского языка на уровне B1. Уверенный пользователь ПК. ",
+            "responsibility": "Проведение функционального тестирования ПО. Ведение документации по результатам тестирования и найденных дефектов. Участие в разработке тест-кейсов и тестовых сценариев. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "probation",
+            "name": "Стажировка"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111098561",
+        "premium": false,
+        "name": "Тестировщик веб-проектов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-15T21:45:33+0300",
+        "created_at": "2024-11-15T21:45:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111098561",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111098561?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111098561",
+        "relations": [],
+        "employer": {
+            "id": "9668483",
+            "name": "Пэйвол Рус",
+            "url": "https://api.hh.ru/employers/9668483",
+            "alternate_url": "https://hh.ru/employer/9668483",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1074040.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5916790.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5916789.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9668483",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Оконченные курсы или наличие опыта в тестировании. Знание основных методологий тестирования. Умение работать с баг-трекерами (например, GitLab, Trello и...",
+            "responsibility": "Функциональное тестирование включая юзабилити и совместимость с различными браузерами и устройствами. Написание и поддержка чек-листов. Отслеживание и документирование багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "project",
+            "name": "Проектная работа"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "107553426",
+        "premium": false,
+        "name": "Младший специалист по тестированию (Junior QA)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "23",
+            "name": "Владимир",
+            "url": "https://api.hh.ru/areas/23"
+        },
+        "salary": {
+            "from": 35000,
+            "to": 35000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Владимир",
+            "street": "1-я Никольская улица",
+            "building": "8",
+            "lat": 56.128606,
+            "lng": 40.399538,
+            "description": null,
+            "raw": "Владимир, 1-я Никольская улица, 8",
+            "metro": null,
+            "metro_stations": [],
+            "id": "2334117"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T11:09:55+0300",
+        "created_at": "2024-11-19T11:09:55+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107553426",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/107553426?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/107553426",
+        "relations": [],
+        "employer": {
+            "id": "2691906",
+            "name": "Организация качества",
+            "url": "https://api.hh.ru/employers/2691906",
+            "alternate_url": "https://hh.ru/employer/2691906",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/3894111.png",
+                "240": "https://img.hhcdn.ru/employer-logo/3894112.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/863309.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2691906",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Ответственность. Грамотность. Готовность выполнять удаленную работу 8 часов в день. Желание расти и развиваться в IT сфере. Знания базовых понятий...",
+            "responsibility": "Ручное тестирование систем и приложений. Разработка тестовой документации (тест-кейсы, отчеты по тестированию). Регистрация и контроль исправления дефектов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111523322",
+        "premium": false,
+        "name": "Junior QA Manual",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1550",
+            "name": "Таганрог",
+            "url": "https://api.hh.ru/areas/1550"
+        },
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T14:44:42+0300",
+        "created_at": "2024-11-21T14:44:42+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111523322",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111523322?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111523322",
+        "relations": [],
+        "employer": {
+            "id": "10911658",
+            "name": "JavaCode",
+            "url": "https://api.hh.ru/employers/10911658",
+            "alternate_url": "https://hh.ru/employer/10911658",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1253713.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6635281.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6635282.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10911658",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание теории тестирования и видов тестирования. Умение применять эти знания на практике. Навыки разработки тестовой документации: Опыт разработки тест-кейсов...",
+            "responsibility": "Теоретическая подготовка по тестированию ПО:"
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "107328945",
+        "premium": false,
+        "name": "Intern QA Engineer",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        },
+        "salary": {
+            "from": 45000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-15T13:24:10+0300",
+        "created_at": "2024-11-15T13:24:10+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107328945",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/107328945?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/107328945",
+        "relations": [],
+        "employer": {
+            "id": "3255952",
+            "name": "Matryoshka Games",
+            "url": "https://api.hh.ru/employers/3255952",
+            "alternate_url": "https://hh.ru/employer/3255952",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/923446.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4134345.png",
+                "90": "https://img.hhcdn.ru/employer-logo/4134344.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3255952",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Большой игровой опыт на мобильных платформах. Грамотная письменная и устная речь. Понимание базовых принципов тестирования. Навыки работы с баг-трекинговой...",
+            "responsibility": "Проведение тестирования игр. Оформление баг-репортов в баг-трекинговой системе Jira. Разработка, актуализация и оформление тестовой документации: чек-листы, тест..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "109295745",
+        "premium": false,
+        "name": "Junior QA Manual (Ручной тестировщик)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-10-25T14:12:15+0300",
+        "created_at": "2024-10-25T14:12:15+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109295745",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/109295745?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/109295745",
+        "relations": [],
+        "employer": {
+            "id": "10912904",
+            "name": "Oxytocin",
+            "url": "https://api.hh.ru/employers/10912904",
+            "alternate_url": "https://hh.ru/employer/10912904",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/7017266.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1349331.png",
+                "240": "https://img.hhcdn.ru/employer-logo/7017267.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10912904",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понимание основных принципов и методологий тестирования. —Внимание к деталям и аналитический склад ума. —Умение чётко формулировать и документировать найденные ошибки. —",
+            "responsibility": "Планирование и проведение ручного тестирования веб-платформы и мобильных приложений. —Создание тестовых сценариев и чек-листов. — Регистрация и трекинг ошибок..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111177623",
+        "premium": false,
+        "name": "Программист / программист-тестировщик (стажер)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-17T23:12:07+0300",
+        "created_at": "2024-11-17T23:12:07+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111177623",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111177623?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111177623",
+        "relations": [],
+        "employer": {
+            "id": "11603860",
+            "name": "Ит Продажи",
+            "url": "https://api.hh.ru/employers/11603860",
+            "alternate_url": "https://hh.ru/employer/11603860",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11603860",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Желательно умение тестировать собственный код с помощью python, если не умеете, поможем. Так же плюсом будет понимание python на бэке. ",
+            "responsibility": "Верстка на HTML CSS (TailwindCSS) и др. CSS/JavaScript анимация и др. Еженедельный отчёт по поставленным на прошлой неделе задачам. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "probation",
+            "name": "Стажировка"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111237987",
+        "premium": false,
+        "name": "QA Engineer (Mobile)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 165000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-18T14:43:49+0300",
+        "created_at": "2024-11-18T14:43:49+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111237987",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111237987?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111237987",
+        "relations": [],
+        "employer": {
+            "id": "3009249",
+            "name": "Secreate",
+            "url": "https://api.hh.ru/employers/3009249",
+            "alternate_url": "https://hh.ru/employer/3009249",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3816384.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3816383.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/843877.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3009249",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт тестирование мобильного приложения от 2 лет. Опыт работы с GitLab. Взаимодействие с системой тест-кейсов и тест-репортов. ",
+            "responsibility": "Тестировать Android и iOS приложения. Создавать и вести тестовую документацию (тест кейсы, чек-листы, тест планы). Обнаруживать, локализовывать и фиксировать..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110428437",
+        "premium": false,
+        "name": "Тестировщик специалист технической поддержки",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 50000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": null,
+            "building": null,
+            "lat": 55.755864,
+            "lng": 37.617698,
+            "description": null,
+            "raw": "Москва",
+            "metro": null,
+            "metro_stations": [],
+            "id": "13951575"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-08T15:27:08+0300",
+        "created_at": "2024-11-08T15:27:08+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110428437",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110428437?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110428437",
+        "relations": [],
+        "employer": {
+            "id": "10000774",
+            "name": "Selsup",
+            "url": "https://api.hh.ru/employers/10000774",
+            "alternate_url": "https://hh.ru/employer/10000774",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1120149.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6101189.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6101190.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10000774",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Базовые знания в области тестирования ПО: умение работать с логами, консолью разработчика, составлять тест-кейсы. - Желание развиваться в IT-сфере...",
+            "responsibility": "1 месяц - изучение продукта и адаптация под руководством наставника. - Со 2 месяца - совмещение задач технической поддержки и тестирования. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110137467",
+        "premium": false,
+        "name": "Стажёр-тестировщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": null,
+            "street": null,
+            "building": null,
+            "lat": null,
+            "lng": null,
+            "description": null,
+            "raw": null,
+            "metro": {
+                "station_name": "Площадь Ильича",
+                "line_name": "Калининская",
+                "station_id": "8.112",
+                "line_id": "8",
+                "lat": 55.747115,
+                "lng": 37.680726
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Площадь Ильича",
+                    "line_name": "Калининская",
+                    "station_id": "8.112",
+                    "line_id": "8",
+                    "lat": 55.747115,
+                    "lng": 37.680726
+                },
+                {
+                    "station_name": "Римская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.113",
+                    "line_id": "10",
+                    "lat": 55.747027,
+                    "lng": 37.679996
+                }
+            ],
+            "id": "30199"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-20T09:51:13+0300",
+        "created_at": "2024-11-20T09:51:13+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110137467",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110137467?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110137467",
+        "relations": [],
+        "employer": {
+            "id": "2987",
+            "name": "КРОК",
+            "url": "https://api.hh.ru/employers/2987",
+            "alternate_url": "https://hh.ru/employer/2987",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/1555613.png",
+                "240": "https://img.hhcdn.ru/employer-logo/1555614.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/278279.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2987",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Cтудент или выпускник профильного направления (техническая специальность). Понимание работы реляционных СУБД, знание языка SQL на уровне написания стандартных запросов. ",
+            "responsibility": "Тестирование программного обеспечения с использованием планов тестирования. Регистрация и контроль исправления дефектов. Тестирование проектной и пользовательской документации. Работа в опытной..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "probation",
+            "name": "Стажировка"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111350290",
+        "premium": false,
+        "name": "QA-инженер/Тестировщик (автоэлектроника)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T17:31:07+0300",
+        "created_at": "2024-11-19T17:31:07+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111350290",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111350290?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111350290",
+        "relations": [],
+        "employer": {
+            "id": "2895827",
+            "name": "Роадгид",
+            "url": "https://api.hh.ru/employers/2895827",
+            "alternate_url": "https://hh.ru/employer/2895827",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/611837.png",
+                "240": "https://img.hhcdn.ru/employer-logo/2888501.png",
+                "90": "https://img.hhcdn.ru/employer-logo/2888500.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2895827",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Ты - заядлый автолюбитель и обладатель прав категории B. Опыт тестирования электроники и гаджетов: ты знаешь методики и подходы. ",
+            "responsibility": "Оценивать качество съемки в дневное и ночное время. Проверить точность работы радаров-детекторов. Давать рекомендации по настройке и прошивке. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110865035",
+        "premium": false,
+        "name": "Junior QA Engineer (Тестировщик)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 20000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-13T11:27:21+0300",
+        "created_at": "2024-11-13T11:27:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110865035",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110865035?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110865035",
+        "relations": [],
+        "employer": {
+            "id": "4194915",
+            "name": "Новая Школа",
+            "url": "https://api.hh.ru/employers/4194915",
+            "alternate_url": "https://hh.ru/employer/4194915",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1209696.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6459234.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6459233.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4194915",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Еще учится или уже выпустился из ВУЗа по IT-направлению (опыт не обязателен, но будет плюсом). Умеет пользоваться DevTools в...",
+            "responsibility": "Проводить ручное тестирование мобильных приложений и сайта, выявлять ошибки и сбои. Участвовать в обсуждениях задач с менеджерами, предлагать идеи по..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106770101",
+        "premium": false,
+        "name": "Junior QA Engineer",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+            "id": "90",
+            "name": "Томск",
+            "url": "https://api.hh.ru/areas/90"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-03T12:30:57+0300",
+        "created_at": "2024-11-03T12:30:57+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106770101",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106770101?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106770101",
+        "relations": [],
+        "employer": {
+            "id": "3255952",
+            "name": "Matryoshka Games",
+            "url": "https://api.hh.ru/employers/3255952",
+            "alternate_url": "https://hh.ru/employer/3255952",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/923446.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4134345.png",
+                "90": "https://img.hhcdn.ru/employer-logo/4134344.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3255952",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Большой игровой опыт на мобильных платформах. Грамотная письменная и устная речь. Понимание базовых принципов тестирования. Навыки работы с баг-трекинговой...",
+            "responsibility": "Проведение тестирования игр. Оформление баг-репортов в баг-трекинговой системе Jira. Разработка, актуализация и оформление тестовой документации: чек-листы, тест..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "107655804",
+        "premium": false,
+        "name": "Специалист по тестированию / QA engineer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "66",
+            "name": "Нижний Новгород",
+            "url": "https://api.hh.ru/areas/66"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T16:31:14+0300",
+        "created_at": "2024-11-19T16:31:14+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107655804",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/107655804?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/107655804",
+        "relations": [],
+        "employer": {
+            "id": "77510",
+            "name": "РК-ТЕХНОЛОГИИ",
+            "url": "https://api.hh.ru/employers/77510",
+            "alternate_url": "https://hh.ru/employer/77510",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/5491445.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5491444.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/968083.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=77510",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы в сфере тестирования и контроля качества ПО. Опыт работы с Linux (уверенный пользователь). Знание теории тестирования. ",
+            "responsibility": "Тестирование web-приложений. Работа с баг-трекером. Взаимодействие с отделами разработки и проектирования."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111214267",
+        "premium": false,
+        "name": "Младший тестировщик B2B веб интерфейсов,мобильных приложений",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "11",
+            "name": "Барнаул",
+            "url": "https://api.hh.ru/areas/11"
+        },
+        "salary": {
+            "from": 30000,
+            "to": 35000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-18T11:13:55+0300",
+        "created_at": "2024-11-18T11:13:55+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111214267",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111214267?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111214267",
+        "relations": [],
+        "employer": {
+            "id": "76164",
+            "name": "ИНЛАЙН",
+            "url": "https://api.hh.ru/employers/76164",
+            "alternate_url": "https://hh.ru/employer/76164",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/538203.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/214977.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/538202.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=76164",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Мы ищем в свой коллектив младшего <highlighttext>тестировщика</highlighttext> B2B веб интерфейсов/мобильных приложений. Минимальное требование - окончание релевантных курсов по...",
+            "responsibility": "Тестирование web приложений. - Составления тест-кейсов, пользовательских сценариев, чек-листов. - Своевременная поддержка документации проекта. - Анализ проектной документации, консультации с командой..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "109309784",
+        "premium": false,
+        "name": "Тестировщик ПО",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "66",
+            "name": "Нижний Новгород",
+            "url": "https://api.hh.ru/areas/66"
+        },
+        "salary": {
+            "from": 55000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-10-25T20:08:43+0300",
+        "created_at": "2024-10-25T20:08:43+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109309784",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/109309784?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/109309784",
+        "relations": [],
+        "employer": {
+            "id": "11546458",
+            "name": "Юрков Алексей",
+            "url": "https://api.hh.ru/employers/11546458",
+            "alternate_url": "https://hh.ru/employer/11546458",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11546458",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Уровень английского от B1. Хорошие аналитические способности. Многозадачность. Внимательность к деталям. Стрессоустойчивость. Грамотность. Хорошие коммуникативные навыки.",
+            "responsibility": "Тестировать приложения на наличие ошибок. Написание отчетов о найденных ошибках. Помощь в создании тестовых сценариев. Взаимодействие с другими отделами компании. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110218639",
+        "premium": false,
+        "name": "Junior QA Engineer (Mobile Games)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "26",
+            "name": "Воронеж",
+            "url": "https://api.hh.ru/areas/26"
+        },
+        "salary": {
+            "from": 30000,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-12T11:06:16+0300",
+        "created_at": "2024-11-12T11:06:16+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110218639",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110218639?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110218639",
+        "relations": [],
+        "employer": {
+            "id": "5473508",
+            "name": "Ollie Games",
+            "url": "https://api.hh.ru/employers/5473508",
+            "alternate_url": "https://hh.ru/employer/5473508",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1030743.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/5743733.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5743732.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5473508",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понятное и грамотное изложение мыслей. Внимательность и ответственность, поэтому в сопроводительном письме напишете \"<highlighttext>qa</highlighttext>\". Будет плюсом наличие нескольких девайсов для...",
+            "responsibility": "Ручное тестирование мобильных игр (иногда и веб игр). Написание и актуализация тестовой документации. Локализация дефектов и составление баг репортов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110715973",
+        "premium": false,
+        "name": "Стажер - QA инженер (Тестировщик ПО Python)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-12T02:58:43+0300",
+        "created_at": "2024-11-12T02:58:43+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110715973",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110715973?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110715973",
+        "relations": [],
+        "employer": {
+            "id": "10909561",
+            "name": "Патрес",
+            "url": "https://api.hh.ru/employers/10909561",
+            "alternate_url": "https://hh.ru/employer/10909561",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10909561",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Apache Kafka. * Базовые знания Python. (и\\или большое желание вырасти до разработчика Python). * Понимание принципов тестирования ПО (Желательно прохождение курсов). * ",
+            "responsibility": "Участие в тестировании функциональности программного обеспечения, написанного на Python. * Создание и поддержка тестовой документации. * Анализ результатов тестирования и выявление ошибок. * "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "probation",
+            "name": "Стажировка"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457756",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457756",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457756?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457756",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457777",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "90",
+            "name": "Томск",
+            "url": "https://api.hh.ru/areas/90"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457777",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457777?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457777",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457755",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457755",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457755?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457755",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110287206",
+        "premium": false,
+        "name": "Junior QA",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-07T09:26:43+0300",
+        "created_at": "2024-11-07T09:26:43+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110287206",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110287206?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110287206",
+        "relations": [],
+        "employer": {
+            "id": "49357",
+            "name": "МАГНИТ, Розничная сеть",
+            "url": "https://api.hh.ru/employers/49357",
+            "alternate_url": "https://hh.ru/employer/49357",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/ichameleon/310823.png",
+                "240": "https://img.hhcdn.ru/ichameleon/310823.png",
+                "original": "https://img.hhcdn.ru/ichameleon/310823.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=49357",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Внимательность к деталям. Знание жизненного цикла ПО. Знание Python на базовом уровне. Знание SQL на уровне средний и выше.",
+            "responsibility": "Составление тест-плана. Оформление тест-кейсов. Проведение тестирования. Оформление контрольных точек для шаблона поставки. Автоматизация тестирования."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457762",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "66",
+            "name": "Нижний Новгород",
+            "url": "https://api.hh.ru/areas/66"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457762",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457762?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457762",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110878369",
+        "premium": false,
+        "name": "Тестировщик-Интегратор",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": null,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-19T13:22:17+0300",
+        "created_at": "2024-11-19T13:22:17+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110878369",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110878369?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110878369",
+        "relations": [],
+        "employer": {
+            "id": "584898",
+            "name": "MediaNation",
+            "url": "https://api.hh.ru/employers/584898",
+            "alternate_url": "https://hh.ru/employer/584898",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/495718.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/2424625.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/2424626.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=584898",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Начальное понимание Python. - Опыт ручного тестирования веб-сайтов.",
+            "responsibility": "Сдавать проект клиенту и получать обратную связь."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457764",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "99",
+            "name": "Уфа",
+            "url": "https://api.hh.ru/areas/99"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457764",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457764?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457764",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457765",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "26",
+            "name": "Воронеж",
+            "url": "https://api.hh.ru/areas/26"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457765",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457765?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457765",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457775",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "78",
+            "name": "Самара",
+            "url": "https://api.hh.ru/areas/78"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457775",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457775?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457775",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457759",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "68",
+            "name": "Омск",
+            "url": "https://api.hh.ru/areas/68"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457759",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457759?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457759",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457769",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457769",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457769?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457769",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457767",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457767",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457767?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457767",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457763",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "72",
+            "name": "Пермь",
+            "url": "https://api.hh.ru/areas/72"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457763",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457763?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457763",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457766",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "76",
+            "name": "Ростов-на-Дону",
+            "url": "https://api.hh.ru/areas/76"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457766",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457766?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457766",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457757",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "11",
+            "name": "Барнаул",
+            "url": "https://api.hh.ru/areas/11"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457757",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457757?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457757",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457773",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "112",
+            "name": "Ярославль",
+            "url": "https://api.hh.ru/areas/112"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457773",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457773?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457773",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457760",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457760",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457760?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457760",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457758",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "54",
+            "name": "Красноярск",
+            "url": "https://api.hh.ru/areas/54"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457758",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457758?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457758",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "109939663",
+        "premium": false,
+        "name": "QA VIP-manager",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-02T11:01:16+0300",
+        "created_at": "2024-11-02T11:01:16+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109939663",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/109939663?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/109939663",
+        "relations": [],
+        "employer": {
+            "id": "11051604",
+            "name": "LLC Omniverse",
+            "url": "https://api.hh.ru/employers/11051604",
+            "alternate_url": "https://hh.ru/employer/11051604",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1276101.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6724706.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6724707.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11051604",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Имеет опыт работы в сфере <highlighttext>QA</highlighttext>. Знает правила ведения деловой переписки. Знает французский язык не ниже уровня C1, английский...",
+            "responsibility": "Контролем качества звонков операторов колл-центра. Контролем качества ведения деловой переписки в чатах социальных сетей (ВКонтакте, телеграм). Анализом проделанной работы. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "83",
+                "name": "Оператор call-центра, специалист контактного центра"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457768",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "95",
+            "name": "Тюмень",
+            "url": "https://api.hh.ru/areas/95"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457768",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457768?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457768",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457778",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "92",
+            "name": "Тула",
+            "url": "https://api.hh.ru/areas/92"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457778",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457778?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457778",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457774",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "24",
+            "name": "Волгоград",
+            "url": "https://api.hh.ru/areas/24"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457774",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457774?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457774",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457770",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "98",
+            "name": "Ульяновск",
+            "url": "https://api.hh.ru/areas/98"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457770",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457770?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457770",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457776",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "84",
+            "name": "Ставрополь",
+            "url": "https://api.hh.ru/areas/84"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457776",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457776?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457776",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457761",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "104",
+            "name": "Челябинск",
+            "url": "https://api.hh.ru/areas/104"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457761",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457761?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457761",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457772",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "70",
+            "name": "Оренбург",
+            "url": "https://api.hh.ru/areas/70"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457772",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457772?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457772",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "111457771",
+        "premium": false,
+        "name": "Тестировщик приложений для смартфонов (Junior)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "107",
+            "name": "Чебоксары",
+            "url": "https://api.hh.ru/areas/107"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-21T04:25:04+0300",
+        "created_at": "2024-11-21T04:25:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111457771",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/111457771?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/111457771",
+        "relations": [],
+        "employer": {
+            "id": "11513879",
+            "name": "Горшков Сергей Николаевич",
+            "url": "https://api.hh.ru/employers/11513879",
+            "alternate_url": "https://hh.ru/employer/11513879",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11513879",
+            "accredited_it_employer": false,
+            "trusted": false
+        },
+        "snippet": {
+            "requirement": "Опыт использования мобильных приложений. Внимательность к деталям и аналитический склад ума. Желание развиваться в сфере IT и тестирования. ",
+            "responsibility": "Тестирование мобильных приложений на разных платформах. Поиск багов и ошибок, составление отчётов. Работа с системами тестирования и отслеживания багов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "По субботам и воскресеньям"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно сменами по 4-6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "124",
+                "name": "Тестировщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]

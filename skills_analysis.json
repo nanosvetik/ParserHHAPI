@@ -1,0 +1,297 @@
+[
+    {
+        "skill": "Тестирование API",
+        "count": 25,
+        "percentage": "11.74%"
+    },
+    {
+        "skill": "A/B тесты",
+        "count": 25,
+        "percentage": "11.74%"
+    },
+    {
+        "skill": "Тестирование iOS-приложений",
+        "count": 24,
+        "percentage": "11.27%"
+    },
+    {
+        "skill": "Системное тестирование",
+        "count": 24,
+        "percentage": "11.27%"
+    },
+    {
+        "skill": "Agile",
+        "count": 24,
+        "percentage": "11.27%"
+    },
+    {
+        "skill": "Тестирование",
+        "count": 8,
+        "percentage": "3.76%"
+    },
+    {
+        "skill": "Ручное тестирование",
+        "count": 7,
+        "percentage": "3.29%"
+    },
+    {
+        "skill": "SQL",
+        "count": 5,
+        "percentage": "2.35%"
+    },
+    {
+        "skill": "QA",
+        "count": 4,
+        "percentage": "1.88%"
+    },
+    {
+        "skill": "Postman",
+        "count": 4,
+        "percentage": "1.88%"
+    },
+    {
+        "skill": "Git",
+        "count": 3,
+        "percentage": "1.41%"
+    },
+    {
+        "skill": "Контроль качества",
+        "count": 3,
+        "percentage": "1.41%"
+    },
+    {
+        "skill": "Python",
+        "count": 3,
+        "percentage": "1.41%"
+    },
+    {
+        "skill": "Кроссплатформенное тестирование",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "Test case",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "Bug Reporting",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "DevTools",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "CI/CD",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "REST API",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "Тестирование игр",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "GameDev",
+        "count": 2,
+        "percentage": "0.94%"
+    },
+    {
+        "skill": "Кроссбраузерное тестирование",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Проведение тестирований",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Gitlab",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Docker",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Selenium",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "API",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Ручное тестирование веб-приложений",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "HTTPS",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "HTTP",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "JSON",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "MySQL",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Atlassian Jira",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "JavaScript",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "CSS",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "HTML",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Техническая поддержка",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Информационные технологии",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "OAT-тестирование",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Тестирование ПО",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Аналитический склад ума",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Техническая документация",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Ведение отчётности",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Тестирование стабильности",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Составление баг-репортов",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "MS Excel",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Google Sheets",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Выявление системных ошибок",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Коммуникабельность",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Умение формулировать выводы",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Внимательность",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Анализ тестирования",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Деловая коммуникация",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Грамотность",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Hyper casual",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Методология тестирования",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Контроль выполнения задач",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Контроль сотрудников",
+        "count": 1,
+        "percentage": "0.47%"
+    },
+    {
+        "skill": "Деловая переписка",
+        "count": 1,
+        "percentage": "0.47%"
+    }
+]
